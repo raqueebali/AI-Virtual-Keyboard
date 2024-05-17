@@ -6,4 +6,3 @@ The main idea is:
 * detect index and thumb fingers' tip locations
 * if only index is over one of the keys change the transparency of the key
 * if both index and thumb fingers are over a key add the letter of the key to the written text      
-to watch the demo of the program press [here](https://youtu.be/lFWwknlw2z0)
